@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "Sachin Kumar | Full Stack Developer",
   description:
     "Modern developer portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.",
+      keywords: ["Sachin Kumar", "Full Stack Developer", "Next.js Developer"],
 };
 
 export default function RootLayout({

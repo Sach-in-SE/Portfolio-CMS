@@ -36,7 +36,7 @@ export function ResumeSection() {
           <motion.a
             whileHover={{ scale: 1.03, y: -2 }}
             whileTap={{ scale: 0.98 }}
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1NtiN9kUL8EcD-e5DH9USSSNNdB06-JQD/view?usp=sharing"
             download
             className="mt-7 inline-flex items-center gap-2 rounded-full border border-cyan-300/50 bg-cyan-300/15 px-6 py-3 text-sm font-semibold text-cyan-100 transition-colors duration-200 hover:border-cyan-200 hover:bg-cyan-300/25"
           >

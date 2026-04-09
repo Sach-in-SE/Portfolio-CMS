@@ -166,7 +166,7 @@ export function Hero({ name, role, location }: HeroProps) {
             Let&apos;s work together
           </a>
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1NtiN9kUL8EcD-e5DH9USSSNNdB06-JQD/view?usp=sharing"
             className="rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-white transition-colors duration-200 hover:border-cyan-300 hover:text-cyan-200"
             download
           >
